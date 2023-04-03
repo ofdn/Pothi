@@ -1,6 +1,9 @@
 # Pothi
 Societies, Cultures and Open Data
 
+[![DOI](https://zenodo.org/badge/623201341.svg)](https://zenodo.org/badge/latestdoi/623201341)
+
+
 * Version 1.0
 * Updated 2023-04-03
 * Contributors: Subhashish Panigrahi
