@@ -16,16 +16,17 @@ Our datasets are sometimes created by using publicly available data from relativ
 
 ## BibTeX
 `
-@misc{panigrahi_subhashish_visual_2023,
-	title = {Pothi},
-	copyright = {Open Data Commons Open Database License (ODbL) v1.0},
-	url = {https://github.com/ofdn/Pothi},
-	urldate = {2023-04-03},
-	publisher = {O Foundation},
-	author = {Panigrahi, Subhashish},
-	month = apr,
-	year = {2023},
+@software{subhashish_panigrahi_2023_7796533,
+  author       = {Subhashish Panigrahi},
+  title        = {ofdn/Pothi: 1.0},
+  month        = apr,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.7796533},
+  url          = {https://doi.org/10.5281/zenodo.7796533}
 }
 `
 ## APA
-Panigrahi, Subhashish. (2023). Pothi (1.0). O Foundation. https://github.com/ofdn/Pothi
+Panigrahi, S. (2023). ofdn/Pothi: 1.0. Zenodo. https://doi.org/10.5281/zenodo.7796533
+
